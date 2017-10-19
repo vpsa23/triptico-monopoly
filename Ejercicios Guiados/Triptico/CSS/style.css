@@ -1,0 +1,67 @@
+div{
+	width: 50%;
+	height: 50%;
+	margin-bottom: -25px;
+}
+
+h2{
+	font-family: 'Dancing Script', cursive;
+	color: #F29B1C;
+	font-size: 20px;
+	text-align: center;
+	line-height: 25px;
+}
+
+h4{
+	font-family: 'Handlee', cursive;
+	font-size: 16px;
+	text-align: center;
+	line-height: 25px;
+}
+
+#titulo{
+	border: 1px	solid black;
+	background-color: #EFBF5A;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 24px;
+	text-align: center;
+	margin-top: 50px;
+	margin-right: 600px;	
+}
+
+#pparrafo{
+	float:left;
+	width: 15%;
+	height: 500px;
+	margin-top: 8px;
+	border: 1px solid black;
+}
+
+#sparrafo{
+	float: left;
+	width: 19.7%;
+	height: 500px;
+	margin-top: 8px;
+	border: 1px solid black;
+
+}
+
+#tercerparrafo{
+	float: left;
+	border: 1px solid black;
+	width: 15%;
+	margin-top: 8px;
+	height: 500px;
+}
+
+.final{
+	border: 1px	solid black;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 14px;
+	height: 30px;
+	line-height: 28px;
+	margin-top: 525px;	
+	background-color: #EFBF5A;
+	text-align: center;
+	
+}
